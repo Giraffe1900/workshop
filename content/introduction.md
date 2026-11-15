@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Introduction
-nav_order: 4
+title: Assignments
+nav_order: 3
 ---
 # Introduction
-Placeholder for first page of lesson
+Assignment details come here.
