@@ -13,15 +13,6 @@ These dates are fixed, but the order in which you do the course topics and submi
 - **Sept 8th:** You can access the pre-recorded introduction and syllabus tour.
 - **Sept 9th, 5PM:** Info session with the instructor, where you can ask ANY questions and she’ll walk you through the assignments. *(Note: it is helpful to have viewed the syllabus tour first!)* Come with questions, ask anything.
 
-### Zoom Details
-
-Samuel McCready is inviting you to a scheduled Zoom meeting.
-
-- **Topic:** ETEC 534 Zoom
-- **Time:** This is a recurring meeting. Meet anytime.
-- **Join Zoom Meeting:** [https://ubc.zoom.us/j/64588237392?pwd=D4FopZ4H8jtHjVRQsexl7W29WIR5P2.1](https://ubc.zoom.us/j/64588237392?pwd=D4FopZ4H8jtHjVRQsexl7W29WIR5P2.1)
-- **Meeting ID:** 645 8823 7392
-- **Passcode:** 626843
 
 ## Deadlines
 
